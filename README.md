@@ -1,11 +1,11 @@
 ![avatar](./nm_i40.png)<br>
-<h4 style="color: gold;"> ---> Never stop learning</h4>
+:latop:  Never stop learning
 
 ---
 
 <br>
 
-#### Side projects in recent months are shown in the table below. 
+#### Side projects in recent months are shown in the table below. For further content or details, please click on the repository name to view.
 
 | Num | Field / Type | Repository Name | Programming Language / Tool / Package |
 | :---:          | :---           | :----         | :---            |
