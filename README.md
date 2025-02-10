@@ -1,5 +1,5 @@
 ![avatar](./nm_i40.png)<br>
-:latop:  Never stop learning
+🚀  Never stop learning
 
 ---
 
