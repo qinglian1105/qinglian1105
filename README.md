@@ -7,7 +7,7 @@
 
 #### Side projects in recent months are shown in the table below. For further content or details, please click on the repository name to view.
 
-| Num | Field / Type | Repository Name | Programming Language / Software /Tool |
+| Num | Field / Type | Repository Name | Programming Language / Software / Tool |
 | :---:          | :---           | :----         | :---            |
 | 1 | Large Language Model (LLM) | [n8n_local_ollama_rag_chat](<https://github.com/qinglian1105/n8n_local_ollama_rag_chat>)  | n8n, Ollama, Qdrant, PostgreSQL, Python, Docker |
 | 2 | Workflow Automation | [n8n_py_js_demo_01](<https://github.com/qinglian1105/n8n_py_js_demo_01>)  | n8n, Python, JavaScript, Docker |
@@ -22,4 +22,5 @@
 | 11 | Website Development | [c_sharp_demo_01](<https://github.com/qinglian1105/c_sharp_demo_01>) | (1) Frontend: ASP.NET Core MVC, Chart.js, Bootstrap <br>(2) Backend: FastAPI, PostgreSQL <br>(3) Other: YOLOv5, Docker |
 | 12 | Website Development | [java_demo_01](<https://github.com/qinglian1105/java_demo_01>) | (1) Frontend: Spring Boot, Chart.js, Bootstrap <br>(2) Backend: PostgreSQL <br>(3) Other: Docker | 
 
+<br>
 <br>
