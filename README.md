@@ -5,11 +5,11 @@
 
 <br>
 
-### Side projects in recent months are shown in the table below. For further content or details, please click on the repository name to view.
+## Side projects in recent months are shown in the table below. For further content or details, please click on the repository name to view.
 
 | Num | Field / Type | Repository Name | Programming Language / Software / Tool |
 | :---:          | :---           | :----         | :---            |
-| 1 | Data Visualization, Automation,<br>Web Development | [dash_plotly_demo_01](<https://github.com/qinglian1105/dash_plotly_demo_01>) | (1) Front-End: Plotly/Dash, Flask-Login<br>(2) Back-End: FastAPI, PostgreSQL<br>(3) Other: Selenium, Beautiful Soup, Docker, n8n |
+| 1 | Data Visualization,<br>Automation,<br>Web Development | [dash_plotly_demo_01](<https://github.com/qinglian1105/dash_plotly_demo_01>) | (1) Front-End: Plotly/Dash, Flask-Login<br>(2) Back-End: FastAPI, PostgreSQL<br>(3) Other: Selenium, Beautiful Soup, Docker, n8n |
 | 2 |  Screen Parsing, Automation | [omniparser_pyautogui_demo](<https://github.com/qinglian1105/omniparser_pyautogui_demo>)  |  OmniParser V2, PyAutoGUI  |
 | 3 | Large Language Model (LLM) | [rag_with_different_dbs](<https://github.com/qinglian1105/rag_with_different_dbs>)  |  Ollama, Qdrant, TimescaleDB, Python, Docker |
 | 4 | Large Language Model (LLM) | [n8n_local_ollama_rag_chat](<https://github.com/qinglian1105/n8n_local_ollama_rag_chat>)  | n8n, Ollama, Qdrant, PostgreSQL, Python, Docker |
