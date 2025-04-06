@@ -9,7 +9,7 @@
 
 | Num | Field / Type | Repository Name | Programming Language / Software / Tool |
 | :---:          | :---           | :----         | :---            |
-| 1 | Data Visualization, Automation | [dash_plotly_demo_01](<https://github.com/qinglian1105/dash_plotly_demo_01>) | (1) Front-End: Plotly/Dash<br>(2) Back-End: FastAPI, PostgreSQL<br>(3) Other: Selenium, Beautiful Soup, Docker, n8n |
+| 1 | Data Visualization, Automation,<br>Web Development | [dash_plotly_demo_01](<https://github.com/qinglian1105/dash_plotly_demo_01>) | (1) Front-End: Plotly/Dash, Flask-Login<br>(2) Back-End: FastAPI, PostgreSQL<br>(3) Other: Selenium, Beautiful Soup, Docker, n8n |
 | 2 |  Screen Parsing, Automation | [omniparser_pyautogui_demo](<https://github.com/qinglian1105/omniparser_pyautogui_demo>)  |  OmniParser V2, PyAutoGUI  |
 | 3 | Large Language Model (LLM) | [rag_with_different_dbs](<https://github.com/qinglian1105/rag_with_different_dbs>)  |  Ollama, Qdrant, TimescaleDB, Python, Docker |
 | 4 | Large Language Model (LLM) | [n8n_local_ollama_rag_chat](<https://github.com/qinglian1105/n8n_local_ollama_rag_chat>)  | n8n, Ollama, Qdrant, PostgreSQL, Python, Docker |
@@ -21,9 +21,9 @@
 | 10 | Robotic Process Automation (RPA) | [tagui_demo_01](<https://github.com/qinglian1105/tagui_demo_01>)  | TagUI, JavaScript, Python |
 | 11 | Robotic Process Automation (RPA) | [uipath_demo_01](<https://github.com/qinglian1105/uipath_demo_01>) | UiPath Studio Desktop, UiPath Orchestrator Cloud, JavaScript, Python |
 | 12 | Robotic Process Automation (RPA) | [power_automate_demo_01](<https://github.com/qinglian1105/power_automate_demo_01>)  | Power Automate Desktop, JavaScript, Python |
-| 13 | Website Development | [django_demo_01](<https://github.com/qinglian1105/django_demo_01>) | (1) Front-End: Django, JavaScript, Boostrap, Chart.js, ECharts <br>(2) Back-End: FastAPI, PostgreSQL, MongoDB <br>(3) Other: Docker, Scikit-learn, YOLOv5 |
-| 14 | Website Development | [c_sharp_demo_01](<https://github.com/qinglian1105/c_sharp_demo_01>) | (1) Front-End: ASP.NET Core MVC, Chart.js, Bootstrap <br>(2) Back-End: FastAPI, PostgreSQL <br>(3) Other: YOLOv5, Docker |
-| 15 | Website Development | [java_demo_01](<https://github.com/qinglian1105/java_demo_01>) | (1) Front-End: Spring Boot, Chart.js, Bootstrap <br>(2) Back-End: PostgreSQL <br>(3) Other: Docker | 
+| 13 | Web Development | [django_demo_01](<https://github.com/qinglian1105/django_demo_01>) | (1) Front-End: Django, JavaScript, Bootstrap, Chart.js, ECharts <br>(2) Back-End: FastAPI, PostgreSQL, MongoDB <br>(3) Other: Docker, Scikit-learn, YOLOv5 |
+| 14 | Web Development | [c_sharp_demo_01](<https://github.com/qinglian1105/c_sharp_demo_01>) | (1) Front-End: ASP.NET Core MVC, Chart.js, Bootstrap <br>(2) Back-End: FastAPI, PostgreSQL <br>(3) Other: YOLOv5, Docker |
+| 15 | Web Development | [java_demo_01](<https://github.com/qinglian1105/java_demo_01>) | (1) Front-End: Spring Boot, Chart.js, Bootstrap <br>(2) Back-End: PostgreSQL <br>(3) Other: Docker | 
 
 <br>
 <br>
