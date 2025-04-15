@@ -22,7 +22,7 @@
 | 11 | Robotic Process Automation (RPA) | [tagui_demo_01](<https://github.com/qinglian1105/tagui_demo_01>)  | TagUI, JavaScript, Python |
 | 12 | Robotic Process Automation (RPA) | [uipath_demo_01](<https://github.com/qinglian1105/uipath_demo_01>) | UiPath Studio Desktop, UiPath Orchestrator Cloud, JavaScript, Python |
 | 13 | Robotic Process Automation (RPA) | [power_automate_demo_01](<https://github.com/qinglian1105/power_automate_demo_01>)  | Power Automate Desktop, JavaScript, Python |
-| 14 | Web Development,<br>Machine Learning | [django_demo_01](<https://github.com/qinglian1105/django_demo_01>) | (1) Front-End: Django, JavaScript, Bootstrap, Chart.js, ECharts<br>(2) Back-End: FastAPI, PostgreSQL, MongoDB <br>(3) Other: Docker, Scikit-learn, YOLOv5 |
+| 14 | Web Development,<br>Machine Learning,<br>Data Analysis | [django_demo_01](<https://github.com/qinglian1105/django_demo_01>) | (1) Front-End: Django, JavaScript, Bootstrap, Chart.js, ECharts<br>(2) Back-End: FastAPI, PostgreSQL, MongoDB <br>(3) Other: Docker, Scikit-learn, YOLOv5 |
 | 15 | Web Development,<br>Machine Learning | [c_sharp_demo_01](<https://github.com/qinglian1105/c_sharp_demo_01>) | (1) Front-End: ASP.NET Core MVC, Chart.js, Bootstrap <br>(2) Back-End: FastAPI, PostgreSQL <br>(3) Other: YOLOv5, Docker |
 | 16 | Web Development | [java_demo_01](<https://github.com/qinglian1105/java_demo_01>) | (1) Front-End: Spring Boot, Chart.js, Bootstrap <br>(2) Back-End: PostgreSQL <br>(3) Other: Docker | 
 
