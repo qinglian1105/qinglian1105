@@ -9,7 +9,7 @@
 
 | Num | Field / Type | Repository Name | Programming Language / Software / Tool |
 | :---:          | :---           | :----         | :---            |
-| 1 | Windows Form App,<br>Automation | [c_sharp_winform_v1](<https://github.com/qinglian1105/c_sharp_winform_v1>) | (1) Front-End: C# Windows Forms App (.NET Framework 4.8)<br>(2) Back-End: FastAPI, PostgreSQL<br>(3) Other: Selenium, Beautiful Soup, Docker, n8n |
+| 1 | Windows Forms App,<br>Automation | [c_sharp_winform_v1](<https://github.com/qinglian1105/c_sharp_winform_v1>) | (1) Front-End: C# Windows Forms App (.NET Framework)<br>(2) Back-End: FastAPI, PostgreSQL<br>(3) Other: Selenium, Beautiful Soup, Docker, n8n |
 | 2 | Data Visualization,<br>Automation,<br>Web Development | [vue3_echarts_demo_01](<https://github.com/qinglian1105/vue3_echarts_demo_01>) | (1) Front-End: Vue3, ECharts, Bootstrap<br>(2) Back-End: FastAPI, PostgreSQL<br>(3) Other: Selenium, Beautiful Soup, Docker, n8n |
 | 3 | Data Visualization,<br>Automation,<br>Web Development | [dash_plotly_demo_01](<https://github.com/qinglian1105/dash_plotly_demo_01>) | (1) Front-End: Plotly/Dash, Flask-Login<br>(2) Back-End: FastAPI, PostgreSQL<br>(3) Other: Selenium, Beautiful Soup, Docker, n8n |
 | 4 |  Screen Parsing, Automation | [omniparser_pyautogui_demo](<https://github.com/qinglian1105/omniparser_pyautogui_demo>)  |  OmniParser V2, PyAutoGUI  |
